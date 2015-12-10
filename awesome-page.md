@@ -7,5 +7,5 @@
 	end
 ```
 
-[Google](www.google.com)
+[Google](http://www.google.com)
 ![Image](http://xaharts.org/funny/i/gitopuss/github-octocat_yes-we-code.jpg)
