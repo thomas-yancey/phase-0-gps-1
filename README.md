@@ -7,4 +7,4 @@
 - git clone [url.git] - takes a copy of a github repo and clones it locally to whatever directory you are in
 - git status - shows your untracked and tracked files and what branch you are on
 
-this is a different change
+
