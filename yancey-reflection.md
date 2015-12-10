@@ -13,3 +13,5 @@ I think that a lot of my issues will come with working on big projects when bran
 
 ##How was your first experience of pairing in a GPS?
 I had a great time pairing in GPS. John was our guide and was extremely helpful. He was patient and would only interject if he thought we were stuck or going down a bad path which I liked. I went into it a little nervous working in front of / with someone else, but doing this really boosted my confidence in peer-coding settings.
+
+test
